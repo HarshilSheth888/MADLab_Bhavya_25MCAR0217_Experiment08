@@ -62,7 +62,7 @@ The About option displays the student's name and USN in a Toast message.
    - About: Displays the student's name and USN.
 
 6. Project Folder Structure
-
+```
 Experiment08/
 ├── AndroidProject/
 │   └── Experiment08/
@@ -86,6 +86,7 @@ Experiment08/
 │   └── test_case_3_about.png
 ├── Observation/
 └── README.md
+```
 
 Note: The tree shows the intended submission organization. Keep the actual generated Gradle files, resources, and source directories from Android Studio. Adjust the tree if your final repository structure differs.
 
